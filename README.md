@@ -1,6 +1,8 @@
 ## Hello! :earth_americas:
 
-I'm a software developer and mechanical engineer from Brazil :computer:
+I'm adata scientist/analyst with a strong foundation in Python, SQL, machine learning and data visualization. I'm always eager to explore new datasets, uncover insights, and build innovative solutions.
+
+Feel free to explore my repositories to see my projects and contributions to the data science community. Let's connect and collaborate! :computer:
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif width="150">
 
